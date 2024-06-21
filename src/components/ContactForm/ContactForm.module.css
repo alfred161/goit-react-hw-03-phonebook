@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 250px;
+  height: 150px;
+  padding: 10px;
+  border: 1px solid grey;
+  margin: 10px 0 20px 0;
+}
+
+#name,
+#number {
+  padding: 2px 5px;
+  width: 200px;
+}
+
+.btn {
+  cursor: pointer;
+}

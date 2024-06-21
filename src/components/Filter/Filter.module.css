@@ -1,0 +1,13 @@
+.filter {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+#filter {
+  padding: 2px 5px;
+  width: 210px;
+  margin-top: 5px;
+}

@@ -1,0 +1,20 @@
+.list {
+  margin: 20px 0 0 18px;
+  width: 300px;
+  list-style-type: disc;
+}
+
+.contactItem {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.btn {
+  cursor: pointer;
+  border: none;
+}
+
+.btn:hover {
+  text-decoration: underline;
+}
